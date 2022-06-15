@@ -1,6 +1,10 @@
 # CppCompetitiveTemplateCreator
 A simple program to auto-generate C++ code for competitive programming but written in Python 🤣🤣🤣
 
+# Download
+
+https://github.com/anhduc261209/CppCompetitiveTemplateCreator/releases/tag/v1.0
+
 # How to use
 
 ## First Way: Through command line argument
