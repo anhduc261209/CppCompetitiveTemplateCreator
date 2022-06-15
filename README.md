@@ -21,3 +21,9 @@ You can also use full path like this
 ## Second Way if you don't use command line argument
 
 Just input the file path and name (If there's no path then it will be stored in the same directory
+
+# Credit
+@tungfint for the template 
+
+# License
+MIT
